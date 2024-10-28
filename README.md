@@ -14,3 +14,12 @@ A Python-based password generator that creates secure, random passwords with cus
 - **User Interface Options**: Available as both a CLI and GUI, providing flexibility for different users.
 
 ## Getting Started
+
+### Prerequisites
+- Python 3.6 or higher is recommended.
+  
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/maq77/PasswordGeneratorPy.git
+   cd PasswordGeneratorPy
